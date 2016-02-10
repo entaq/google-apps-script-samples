@@ -28,7 +28,7 @@ scratch, follow the steps below.
 1. Create a new standalone script in your Google Drive
    ([instructions available here](https://developers.google.com/apps-script/managing_projects#creatingDrive))
    and add in each of the files in this directory. You should already  have a
-   file named Code.gs in your project, and you can replace it's contents with
+   file named Code.gs in your project, and you can replace its contents with
    the new code. For the remaining files, ensure you select
    **File > New > Html file** when creating the files, and when entering the
    file name omit the .html suffix as it will be added automatically.
@@ -38,3 +38,5 @@ scratch, follow the steps below.
 3. Save a new version of your script and publish it as a web app that runs as
    the **User acessing the web app**.
    ([instructions available here](https://developers.google.com/apps-script/execution_web_apps)).
+
+[![Analytics](https://ga-beacon.appspot.com/UA-42085206-1/google-apps-script-samples/simple_tasks)](https://github.com/igrigorik/ga-beacon)
